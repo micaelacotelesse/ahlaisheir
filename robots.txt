@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auchiethie.space2vec.com/sitemap.xml
